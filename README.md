@@ -29,7 +29,7 @@ To train the TF-LDA module:
 > python lda_learn_tf_news.py
 
 To train the TW-LDA module:
-> python lda_learn_tf_news.py
+> python lda_learn_tw_news.py
 
 In the learn/lsi directory
 --------------------------
