@@ -19,8 +19,8 @@ If you use part of the code please cite:
 
 The code has been developed using Anaconda 2.3 and the LDA module version 1.0.2
 
-Install Anaconda 2.3 from https://repo.continuum.io/archive/
-and the pip install lda==1.0.2
+Install Anaconda 2.3 from https://repo.continuum.io/archive/ and then 
+> pip install lda==1.0.2  
 
 
 In the learn/lda directory
@@ -41,10 +41,10 @@ To train the TW-LSI module:
 
 In the test/lda directory
 --------------------------
-To predict using the TF-LDA module
+To predict using the TF-LDA module:
 > python tf_ds_news_group.py
 
-To predict using the TW-LDA module
+To predict using the TW-LDA module:
 > python tw_ds_testsallgow_newsgroup.py
 
 In the test/lsi directory
