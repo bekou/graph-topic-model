@@ -1,4 +1,5 @@
-# someris - graph-topic-model
+# Graph-based term weighting scheme for topic modeling
+
 
 This repository contains the code presented in the work:
 
