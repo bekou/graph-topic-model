@@ -1,9 +1,9 @@
-# Graph-based term weighting scheme for topic modeling
+# Graph-based term weighting scheme for topic modeling.
 
 
 This repository contains the code presented in the work:
 
-[Graph-based term weighting scheme for topic modeling](https://bekou.github.io/papers/someris2016/bekoulis-someris2016.pdf)
+[Graph-based term weighting scheme for topic modeling.](https://bekou.github.io/papers/someris2016/bekoulis-someris2016.pdf)
 
 If you use part of the code please cite:  
 
