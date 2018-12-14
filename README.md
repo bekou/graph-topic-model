@@ -7,14 +7,16 @@ This repository contains the code presented in the work:
 
 If you use part of the code please cite:  
 
-> @inproceedings{bekoulis2016graph,  
-> title={Graph-based term weighting scheme for topic modeling},  
-> author={Bekoulis, Giannis and Rousseau, Fran{\c{c}}ois},  
-> booktitle={Data Mining Workshops (ICDMW), 2016 IEEE 16th International Conference on Data Mining},  
-> pages={1039--1044},  
-> year={2016},  
-> organization={IEEE}  
-> }  
+```  
+@inproceedings{bekoulis2016graph,  
+ title={Graph-based term weighting scheme for topic modeling},  
+ author={Bekoulis, Giannis and Rousseau, Fran{\c{c}}ois},  
+ booktitle={Data Mining Workshops (ICDMW), 2016 IEEE 16th International Conference on Data Mining},  
+ pages={1039--1044},  
+ year={2016},  
+ organization={IEEE}  
+}  
+```  
 
 ### Pre-requisites ###
 
